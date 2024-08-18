@@ -1,1 +1,3 @@
 Adding context in file to stage the file and commit in git
+
+Editing file and checking the status of the git
